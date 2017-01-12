@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B2E6D08DBAB27F5A63FEC6C18CE7646E140307EE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2865A1E0A332B4A5B4BA8E496DFC6D192AF7962D" : 9223372036854775807,
+    "B2E6D08DBAB27F5A63FEC6C18CE7646E140307EE" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AD000F32-91B7-46B7-A7BB-C004AD88848D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2865A1E0A332B4A5B4BA8E496DFC6D192AF7962D" : "",
+    "B2E6D08DBAB27F5A63FEC6C18CE7646E140307EE" : "RNNYT\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RNNYT",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/RNNYT.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jacobdfriedmann\/RNJSCProfiler.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2865A1E0A332B4A5B4BA8E496DFC6D192AF7962D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ericmasiello\/RNNYT.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B2E6D08DBAB27F5A63FEC6C18CE7646E140307EE"
+    }
+  ]
+}

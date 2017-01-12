@@ -1,0 +1,7 @@
+android
+ios
+__tests__
+
+# this negated pattern is currently needed to lint dot files
+# see: https://github.com/eslint/eslint/issues/4828
+!**/*.eslintrc.js
